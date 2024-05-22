@@ -1,0 +1,11 @@
+Guatemala_City Antigua 45
+Antigua Chimaltenango 30
+Chimaltenango Escuintla 35
+Escuintla Santa_Lucia 40
+Santa_Lucia Mazatenango 75
+Mazatenango Retalhuleu 25
+Retalhuleu Quetzaltenango 55
+Quetzaltenango Huehuetenango 80
+Huehuetenango Coban 140
+Coban Guatemala_City 200
+Antigua Coban 110
